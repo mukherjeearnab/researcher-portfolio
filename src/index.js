@@ -8,7 +8,7 @@ import PhotoFrame from "./components/PhotoFrame";
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <BrowserRouter basename="/researcher-portfolio">
             <App />
         </BrowserRouter>
     </React.StrictMode>,
