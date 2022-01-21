@@ -47,7 +47,7 @@ const PhotoFrame = (props) => {
                     <img
                         className="frame-foreground"
                         alt={props.frames[index]}
-                        src={`/img/frames/${props.frames[index]}`}
+                        src={`/researcher-portfolio/img/frames/${props.frames[index]}`}
                     ></img>
                     <img
                         className="frame-background"
