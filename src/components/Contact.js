@@ -42,7 +42,7 @@ const Contact = () => {
     const [contact, setContact] = useState({ office: { address: "", phone: "" }, lab: { address: "", phone: "" } });
     useEffect(() => {
         // GET QuickLinks
-        fetch("/data/Contact.json")
+        fetch("/researcher-portfolio/data/Contact.json")
             .then((res) => res.json())
             .then((content) => setContact(content));
     }, []);

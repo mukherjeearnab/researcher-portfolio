@@ -6,7 +6,7 @@ const NameHeader = () => {
     const [info, setInfo] = useState([]);
     useEffect(() => {
         // GET QuickLinks
-        fetch("/data/NameHeader.json")
+        fetch("/researcher-portfolio/data/NameHeader.json")
             .then((res) => res.json())
             .then((content) => setInfo(content));
     }, []);

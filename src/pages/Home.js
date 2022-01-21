@@ -31,14 +31,14 @@ const Home = () => {
 
     useEffect(() => {
         // GET QuickLinks
-        fetch("/data/QuickLinks.json")
+        fetch("/researcher-portfolio/data/QuickLinks.json")
             .then((res) => res.json())
             .then((content) => setLinks(content.Home));
     }, []);
 
     useEffect(() => {
         // GET Research And Publications
-        fetch("/data/ResearchAndPublications.json")
+        fetch("/researcher-portfolio/data/ResearchAndPublications.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -48,7 +48,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET News Updates
-        fetch("/data/NewsUpdates.json")
+        fetch("/researcher-portfolio/data/NewsUpdates.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -58,7 +58,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET Education
-        fetch("/data/Education.json")
+        fetch("/researcher-portfolio/data/Education.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -68,7 +68,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET Projects
-        fetch("/data/Projects.json")
+        fetch("/researcher-portfolio/data/Projects.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -78,7 +78,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET Scholar Guiding
-        fetch("/data/ScholarGuiding.json")
+        fetch("/researcher-portfolio/data/ScholarGuiding.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -88,7 +88,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET PG Student Guiding
-        fetch("/data/PGStudentsGuiding.json")
+        fetch("/researcher-portfolio/data/PGStudentsGuiding.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -98,7 +98,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET Teaching
-        fetch("/data/Teaching.json")
+        fetch("/researcher-portfolio/data/Teaching.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -108,7 +108,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET Teaching
-        fetch("/data/ShortTermCourse.json")
+        fetch("/researcher-portfolio/data/ShortTermCourse.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);
@@ -118,7 +118,7 @@ const Home = () => {
 
     useEffect(() => {
         // GET Professional Activities
-        fetch("/data/ProfessionalActivities.json")
+        fetch("/researcher-portfolio/data/ProfessionalActivities.json")
             .then((res) => res.json())
             .then((content) => {
                 // console.log(content);

@@ -13,14 +13,14 @@ const Publications = () => {
 
     useEffect(() => {
         // GET QuickLinks
-        fetch("/data/QuickLinks.json")
+        fetch("/researcher-portfolio/data/QuickLinks.json")
             .then((res) => res.json())
             .then((content) => setLinks(content.Publications));
     }, []);
 
     useEffect(() => {
         // GET Journals
-        fetch("/data/Journals.json")
+        fetch("/researcher-portfolio/data/Journals.json")
             .then((res) => res.json())
             .then((content) => {
                 setJournals(content);
@@ -29,7 +29,7 @@ const Publications = () => {
 
     useEffect(() => {
         // GET Conferences
-        fetch("/data/Conferences.json")
+        fetch("/researcher-portfolio/data/Conferences.json")
             .then((res) => res.json())
             .then((content) => {
                 setConferences(content);
@@ -38,7 +38,7 @@ const Publications = () => {
 
     useEffect(() => {
         // GET Dissertations
-        fetch("/data/Dissertations.json")
+        fetch("/researcher-portfolio/data/Dissertations.json")
             .then((res) => res.json())
             .then((content) => {
                 setDissertations(content);
