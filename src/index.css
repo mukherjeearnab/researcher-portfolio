@@ -1,0 +1,31 @@
+.Name-Heading {
+    text-align: center;
+    padding: 20px;
+}
+
+.Name-Heading h2 {
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+}
+
+.Name-Heading h4 {
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+}
+
+.Name-Heading h5,
+h6 {
+    font-family: "Open Sans", sans-serif;
+}
+
+.Name-Heading h7 {
+    font-family: "IBM Plex Mono", monospace;
+}
+
+body {
+    transition-duration: 0.5s;
+}
+
+.mode-dial {
+    transition-duration: 0.5s;
+}

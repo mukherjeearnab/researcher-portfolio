@@ -1,0 +1,24 @@
+.contact {
+    transition: 0.5s;
+}
+
+.contact-box {
+    text-align: center;
+    padding: 20px;
+}
+
+.contact-box h6 {
+    /* margin-top: 20px; */
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    /* font-size: medium; */
+}
+
+.contact-box p {
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.mode {
+    padding: 35px;
+}

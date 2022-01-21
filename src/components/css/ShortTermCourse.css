@@ -1,0 +1,15 @@
+.short-term-course {
+    padding: 30px;
+    text-align: justify;
+}
+
+.short-term-course h3 {
+    padding-bottom: 10px;
+    font-family: "Playfair Display", serif;
+}
+
+.short-term-course li {
+    /* margin: 0; */
+    text-align: justify;
+    padding-bottom: 10px;
+}

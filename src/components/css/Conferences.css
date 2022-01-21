@@ -1,0 +1,48 @@
+.conferences {
+    padding: 30px;
+    text-align: justify;
+}
+
+.conferences h3 {
+    padding-bottom: 10px;
+    font-family: "Playfair Display", serif;
+}
+
+.conferences p,
+h6 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.conferences li {
+    padding: 5px;
+    text-align: left;
+}
+
+.conference-author {
+    font-family: "IBM Plex Mono", monospace;
+}
+
+.conference-title {
+    font-family: "Newsreader", serif;
+    text-decoration: none;
+}
+
+.conference-pages {
+    font-family: "IBM Plex Mono", monospace;
+}
+
+.conference-date {
+    font-family: "IBM Plex Mono", monospace;
+}
+
+.conference-notes {
+    color: #aaa;
+    font-family: "IBM Plex Mono", monospace;
+}
+
+.conference-ppt a {
+    color: #aaa;
+    font-weight: 400;
+    font-family: "IBM Plex Mono", monospace;
+}

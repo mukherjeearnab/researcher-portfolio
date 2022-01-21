@@ -1,0 +1,17 @@
+.Name-Heading {
+    padding: 20px;
+}
+
+.Name-Heading h2 {
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+}
+
+.Name-Heading h5,
+h6 {
+    font-family: "Open Sans", sans-serif;
+}
+
+.Name-Heading p {
+    font-family: "IBM Plex Mono", monospace;
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "authors": [
+            "Bob",
+            "John Doe"
+        ],
+        "title": "A Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "13th Conference of This and That",
+        "conferenceShort": "CTT '21",
+        "pages": "123-129",
+        "location": "Phuket, Thailand",
+        "date": "7-10 April 2021",
+        "publisher": "Springer CCIS 1324"
+    },
+    {
+        "authors": [
+            "Alice",
+            "John Doe"
+        ],
+        "title": "Another Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "1st International Conference on Something and Other Things",
+        "conferenceShort": "ICSOT '20",
+        "pages": "6:1-6:5",
+        "location": "Istanbul, Turkey",
+        "date": "4-6 Nov 2020",
+        "publisher": "ACM Press"
+    },
+    {
+        "authors": [
+            "Bob",
+            "John Doe"
+        ],
+        "title": "A Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "13th Conference of This and That",
+        "conferenceShort": "CTT '21",
+        "pages": "123-129",
+        "location": "Phuket, Thailand",
+        "date": "7-10 April 2021",
+        "publisher": "Springer CCIS 1324"
+    },
+    {
+        "authors": [
+            "Alice",
+            "John Doe"
+        ],
+        "title": "Another Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "1st International Conference on Something and Other Things",
+        "conferenceShort": "ICSOT '20",
+        "pages": "6:1-6:5",
+        "location": "Istanbul, Turkey",
+        "date": "4-6 Nov 2020",
+        "publisher": "ACM Press"
+    },
+    {
+        "authors": [
+            "Bob",
+            "John Doe"
+        ],
+        "title": "A Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "13th Conference of This and That",
+        "conferenceShort": "CTT '21",
+        "pages": "123-129",
+        "location": "Phuket, Thailand",
+        "date": "7-10 April 2021",
+        "publisher": "Springer CCIS 1324"
+    },
+    {
+        "authors": [
+            "Alice",
+            "John Doe"
+        ],
+        "title": "Another Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "1st International Conference on Something and Other Things",
+        "conferenceShort": "ICSOT '20",
+        "pages": "6:1-6:5",
+        "location": "Istanbul, Turkey",
+        "date": "4-6 Nov 2020",
+        "publisher": "ACM Press"
+    },
+    {
+        "authors": [
+            "Bob",
+            "John Doe"
+        ],
+        "title": "A Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "13th Conference of This and That",
+        "conferenceShort": "CTT '21",
+        "pages": "123-129",
+        "location": "Phuket, Thailand",
+        "date": "7-10 April 2021",
+        "publisher": "Springer CCIS 1324"
+    },
+    {
+        "authors": [
+            "Alice",
+            "John Doe"
+        ],
+        "title": "Another Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "1st International Conference on Something and Other Things",
+        "conferenceShort": "ICSOT '20",
+        "pages": "6:1-6:5",
+        "location": "Istanbul, Turkey",
+        "date": "4-6 Nov 2020",
+        "publisher": "ACM Press"
+    },
+    {
+        "authors": [
+            "Bob",
+            "John Doe"
+        ],
+        "title": "A Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "13th Conference of This and That",
+        "conferenceShort": "CTT '21",
+        "pages": "123-129",
+        "location": "Phuket, Thailand",
+        "date": "7-10 April 2021",
+        "publisher": "Springer CCIS 1324"
+    },
+    {
+        "authors": [
+            "Alice",
+            "John Doe"
+        ],
+        "title": "Another Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "1st International Conference on Something and Other Things",
+        "conferenceShort": "ICSOT '20",
+        "pages": "6:1-6:5",
+        "location": "Istanbul, Turkey",
+        "date": "4-6 Nov 2020",
+        "publisher": "ACM Press"
+    },
+    {
+        "authors": [
+            "Bob",
+            "John Doe"
+        ],
+        "title": "A Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "13th Conference of This and That",
+        "conferenceShort": "CTT '21",
+        "pages": "123-129",
+        "location": "Phuket, Thailand",
+        "date": "7-10 April 2021",
+        "publisher": "Springer CCIS 1324"
+    },
+    {
+        "authors": [
+            "Alice",
+            "John Doe"
+        ],
+        "title": "Another Conference Paper",
+        "link": "https://google.com/",
+        "prefix": "Proc. of the",
+        "conference": "1st International Conference on Something and Other Things",
+        "conferenceShort": "ICSOT '20",
+        "pages": "6:1-6:5",
+        "location": "Istanbul, Turkey",
+        "date": "4-6 Nov 2020",
+        "publisher": "ACM Press"
+    }
+]

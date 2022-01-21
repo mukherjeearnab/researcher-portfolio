@@ -1,0 +1,22 @@
+.projects {
+    padding: 30px;
+    text-align: justify;
+}
+
+.projects h3 {
+    padding-bottom: 10px;
+    font-family: "Playfair Display", serif;
+}
+
+.projects li {
+    padding-top: 15px;
+}
+
+.projects p {
+    margin: 0;
+}
+
+.project-block {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+}

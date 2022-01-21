@@ -1,0 +1,23 @@
+.research-and-publications {
+    padding: 30px;
+    text-align: justify;
+}
+
+.research-and-publications h3 {
+    font-family: "Playfair Display", serif;
+}
+
+.research-and-publications p,
+li {
+    font-family: "Open Sans", sans-serif;
+}
+
+.research-and-publications h5 {
+    font-size: 1.2em;
+    text-align: left;
+    font-family: "IBM Plex Mono", monospace;
+}
+
+/* .research-and-publications p {
+    font-size: 1rem;
+} */

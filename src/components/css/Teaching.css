@@ -1,0 +1,26 @@
+.teaching {
+    padding: 30px;
+    text-align: justify;
+}
+
+.teaching h3 {
+    padding-bottom: 10px;
+    font-family: "Playfair Display", serif;
+}
+
+.teaching li {
+    padding-top: 15px;
+}
+
+.teaching p {
+    margin: 0;
+}
+
+.teaching-title {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+}
+
+.teaching-time {
+    font-family: "IBM Plex Mono", monospace;
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Mr. Bob",
+        "broadArea": "Formal Methods for Analysis and Verification",
+        "thesis": "",
+        "status": ""
+    },
+    {
+        "name": "Mrs. Alice",
+        "broadArea": "Blockchain and Smart Contract",
+        "thesis": "",
+        "status": ""
+    },
+    {
+        "name": "Mr. James Bond",
+        "broadArea": "Some Research Topic",
+        "thesis": {
+            "title": "Thesis Title Here",
+            "link": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        "status": "Ph.D. Degree Awarded, Currently Assistant Professor at Some Other University"
+    }
+]

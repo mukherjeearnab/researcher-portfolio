@@ -1,0 +1,26 @@
+.scholars {
+    padding: 30px;
+    text-align: justify;
+}
+
+.scholars h3 {
+    padding-bottom: 10px;
+    font-family: "Playfair Display", serif;
+}
+
+.scholars li {
+    padding-top: 15px;
+}
+
+.scholars p {
+    margin: 0;
+}
+
+.scholar-name {
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+}
+
+.scholar-block {
+    font-family: "IBM Plex Mono", monospace;
+}

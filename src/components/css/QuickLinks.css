@@ -1,0 +1,29 @@
+.quicklinks p {
+    color: grey;
+}
+
+.quicklinks {
+    text-align: left;
+    /* padding: 20px; */
+}
+
+.quicks {
+    padding: 20px;
+}
+
+.quicklinks a {
+    font-family: "IBM Plex Mono", monospace;
+    text-decoration: underline;
+    color: grey;
+}
+
+.quicklinks-iul {
+    color: grey;
+}
+
+.quicklinks a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+/* .quicklink */

@@ -1,0 +1,30 @@
+.professional-activities {
+    padding: 30px;
+    text-align: justify;
+}
+
+.professional-activities h3 {
+    padding-bottom: 10px;
+    font-family: "Playfair Display", serif;
+}
+
+.professional-activities h5 {
+    margin: 0;
+    font-family: "IBM Plex Mono", monospace;
+}
+
+.professional-activities p {
+    margin: 0;
+    text-align: justify;
+    padding-bottom: 15px;
+}
+
+.program-comittee-member {
+    text-align: left;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.program-comittee-member span {
+    display: inline-block;
+}
