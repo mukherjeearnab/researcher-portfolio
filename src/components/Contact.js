@@ -7,14 +7,14 @@ const Contact = () => {
         var style = document.querySelector('link[rel="newest stylesheet"]');
 
         let current = style.getAttribute("href");
-        if (current === "/css/LightTheme.css") {
+        if (current === "/researcher-portfolio/css/LightTheme.css") {
             // Change to Dark Mode
-            style.setAttribute("href", "/css/DarkTheme.css");
+            style.setAttribute("href", "/researcher-portfolio/css/DarkTheme.css");
             changeMetaTheme(1);
             document.cookie = `theme=1;samesite=strict;expires=Fri, 31 Dec 9999 23:59:59 GMT`;
-        } else if (current === "/css/DarkTheme.css") {
+        } else if (current === "/researcher-portfolio/css/DarkTheme.css") {
             // Change to Light Mode
-            style.setAttribute("href", "/css/LightTheme.css");
+            style.setAttribute("href", "/researcher-portfolio/css/LightTheme.css");
             changeMetaTheme(0);
             document.cookie = `theme=0;samesite=strict;expires=Fri, 31 Dec 9999 23:59:59 GMT`;
         }
