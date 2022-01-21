@@ -1,0 +1,22 @@
+{
+    "Home": [
+        {
+            "name": "Publications",
+            "link": "publications"
+        },
+        {
+            "name": "GitHub",
+            "link": "https://github.com/"
+        }
+    ],
+    "Publications": [
+        {
+            "name": "DBLP List",
+            "link": "https://dblp.org/"
+        },
+        {
+            "name": "Google Scholar List",
+            "link": "http://scholar.google.co.in/"
+        }
+    ]
+}

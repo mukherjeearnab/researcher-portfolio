@@ -1,0 +1,288 @@
+{
+    "MemberOfProfessionalBodies": [
+        "IEEE",
+        "ACM SIGSOFT"
+    ],
+    "ConferenceSessionChair": [
+        "ICCCS 2020",
+        "ACOMP 2016",
+        "C3IT 2015",
+        "FDSE 2014"
+    ],
+    "ProgramCommitteeMember": [
+        {
+            "name": "MEDI",
+            "versions": [
+                {
+                    "year": "2021",
+                    "link": "https://cs.ttu.ee/events/medi2021/"
+                },
+                {
+                    "year": "2019",
+                    "link": "https://www.irit.fr/MEDI2019/"
+                }
+            ]
+        },
+        {
+            "name": "FDSE",
+            "versions": [
+                {
+                    "year": "2020",
+                    "link": "http://www.thefdse.org/"
+                },
+                {
+                    "year": "2019",
+                    "link": "http://fdse.hcmut.edu.vn/"
+                },
+                {
+                    "year": "2018",
+                    "link": "http://www.cse.hcmut.edu.vn/fdse2018/"
+                },
+                {
+                    "year": "2017",
+                    "link": "http://www.cse.hcmut.edu.vn/fdse2017/"
+                },
+                {
+                    "year": "2016",
+                    "link": "http://www.cse.hcmut.edu.vn/fdse2016/"
+                },
+                {
+                    "year": "2015",
+                    "link": "http://www.cse.hcmut.edu.vn/fdse2015/"
+                }
+            ]
+        },
+        {
+            "name": "DATA",
+            "versions": [
+                {
+                    "year": "2021",
+                    "link": "http://www.dataconference.org/"
+                },
+                {
+                    "year": "2020",
+                    "link": "http://www.dataconference.org/"
+                },
+                {
+                    "year": "2019",
+                    "link": "http://www.dataconference.org/"
+                },
+                {
+                    "year": "2018",
+                    "link": "http://www.dataconference.org/"
+                },
+                {
+                    "year": "2017",
+                    "link": "http://www.dataconference.org/"
+                },
+                {
+                    "year": "2016",
+                    "link": "http://www.dataconference.org/"
+                },
+                {
+                    "year": "2015",
+                    "link": "http://www.dataconference.org/"
+                }
+            ]
+        },
+        {
+            "name": "SKM",
+            "versions": [
+                {
+                    "year": "2021",
+                    "link": "https://www.secure-km.org/SKM-2021/"
+                },
+                {
+                    "year": "2019",
+                    "link": "https://www.secure-km.org/SKM-2019/"
+                }
+            ]
+        },
+        {
+            "name": "ACSS",
+            "versions": [
+                {
+                    "year": "2021",
+                    "link": "http://www.acss.cucse.org/"
+                },
+                {
+                    "year": "2019",
+                    "link": "http://www.acss.cucse.org/"
+                },
+                {
+                    "year": "2018",
+                    "link": "http://www.acss.cucse.org/"
+                },
+                {
+                    "year": "2017",
+                    "link": "http://acss.nitp.ac.in/"
+                },
+                {
+                    "year": "2016",
+                    "link": "http://www.acss.cucse.org/"
+                },
+                {
+                    "year": "2015",
+                    "link": "http://www.acss.cucse.org/"
+                },
+                {
+                    "year": "2014",
+                    "link": "http://www.akcsit.in/Workshop/Home.html"
+                }
+            ]
+        },
+        {
+            "name": "CISIM",
+            "versions": [
+                {
+                    "year": "2021",
+                    "link": "http://cisim2021.wi.pb.edu.pl/"
+                },
+                {
+                    "year": "2020",
+                    "link": "http://cisim2020.wi.pb.edu.pl/"
+                },
+                {
+                    "year": "2019",
+                    "link": "http://cisim2019.wi.pb.edu.pl/"
+                },
+                {
+                    "year": "2018",
+                    "link": "http://cisim2018.wi.pb.edu.pl/"
+                },
+                {
+                    "year": "2017",
+                    "link": "http://wi.pb.edu.pl/cisim2017/"
+                },
+                {
+                    "year": "2016",
+                    "link": "http://www.uwb.lt/cisim2016/"
+                },
+                {
+                    "year": "2015",
+                    "link": "http://www.mini.pw.edu.pl/cisim2015/"
+                },
+                {
+                    "year": "2014",
+                    "link": "http://cisim2014.tdt.edu.vn/"
+                },
+                {
+                    "year": "2014",
+                    "link": "http://home.agh.edu.pl/~saeed/cisim2013/"
+                }
+            ]
+        },
+        {
+            "name": "ICACCI",
+            "versions": [
+                {
+                    "year": "2018",
+                    "link": "http://icacci-conference.org/2018/"
+                },
+                {
+                    "year": "2017",
+                    "link": "http://icacci-conference.org/2017/"
+                },
+                {
+                    "year": "2016",
+                    "link": "http://icacci-conference.org/2016/"
+                }
+            ]
+        },
+        {
+            "name": "SSCC",
+            "versions": [
+                {
+                    "year": "2018",
+                    "link": "http://www.acn-conference.org/sscc2018/"
+                },
+                {
+                    "year": "2017",
+                    "link": "http://www.acn-conference.org/sscc2017/"
+                },
+                {
+                    "year": "2015",
+                    "link": "http://icacci-conference.org/sscc2015/"
+                }
+            ]
+        },
+        {
+            "name": "iSES",
+            "versions": [
+                {
+                    "year": "2021",
+                    "link": "https://ieee-ises.org/2021/"
+                }
+            ]
+        },
+        {
+            "name": "ICIA",
+            "versions": [
+                {
+                    "year": "2020",
+                    "link": "http://www.cianitjsr.in/"
+                }
+            ]
+        },
+        {
+            "name": "ICCCS",
+            "versions": [
+                {
+                    "year": "2020",
+                    "link": "http://www.icccs-conf.in/"
+                }
+            ]
+        },
+        {
+            "name": "iWML",
+            "versions": [
+                {
+                    "year": "2018",
+                    "link": "http://www.iwml.iitbhu.ac.in/"
+                }
+            ]
+        },
+        {
+            "name": "FQM",
+            "versions": [
+                {
+                    "year": "2014",
+                    "link": "http://web.science.mq.edu.au/conferences/qfm14/"
+                }
+            ]
+        }
+    ],
+    "JournalReviewer": [
+        "IEEE Transactions on Dependable and Secure Computing",
+        "IEEE Transactions on Industrial Informatics",
+        "IET Information Security",
+        "ACM Transactions on Computational Logic",
+        "IET Signal Processing",
+        "IEEE Transactions on Knowledge and Data Engineering",
+        "IEEE Transactions on Reliability",
+        "Springer Information Systems Frontiers",
+        "Springer Artificial Intelligence Review",
+        "Journal of Systems and Software",
+        "Sadhana",
+        "International Journal of Web Information Systems",
+        "Innovation and Research in BioMedical engineering",
+        "International Journal of Data Science and Analytics"
+    ],
+    "ConferenceReviewer": [
+        "FM 2019",
+        "MEDI 2021/19",
+        "FDSE 2020/18/17/16/15",
+        "DATA 2021/20/18/17/16/15",
+        "SKM 2019",
+        "ACSS 2021/18/17/16/15",
+        "CISIM 2021/19/18/17/16/15/14/13",
+        "ICACCI 2018/17/16/15",
+        "SSCC 2018/17/15",
+        "AIR 2021",
+        "ICCCS 2020",
+        "ICIA 2020",
+        "SmartDataServices 2020",
+        "SAS 2014/11",
+        "IEEE INDICON 2013"
+    ]
+}

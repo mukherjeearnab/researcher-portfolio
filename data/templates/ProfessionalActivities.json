@@ -1,0 +1,17 @@
+{
+    "MemberOfProfessionalBodies": [""],
+    "ConferenceSessionChair": [""],
+    "ProgramCommitteeMember": [
+        {
+            "name": "",
+            "versions": [
+                {
+                    "year": "",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "JournalReviewer": ["", ""],
+    "ConferenceReviewer": ["", ""]
+}

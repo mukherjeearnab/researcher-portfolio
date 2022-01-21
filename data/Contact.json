@@ -1,0 +1,10 @@
+{
+    "office": {
+        "address": "30 Wellington Square, Chelsea.",
+        "phone": "+1 1234567980"
+    },
+    "lab": {
+        "address": "30 Wellington Square, Chelsea.",
+        "phone": "+1 2346579801"
+    }
+}

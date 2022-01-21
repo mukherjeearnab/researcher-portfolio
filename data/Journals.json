@@ -1,0 +1,137 @@
+[
+    {
+        "authors": [
+            "Alice",
+            "Bob",
+            "John Doe"
+        ],
+        "title": "Some Journal Paper Title",
+        "link": "https://authors.elsevier.com/",
+        "journal": "The Journal of This & That",
+        "volume": "175: 110903",
+        "publisher": "Elsevier Ed.",
+        "year": 2021,
+        "status": ""
+    },
+    {
+        "authors": [
+            "Jane",
+            "John Doe"
+        ],
+        "title": "Another Journal Paper Title",
+        "link": "https://google.com",
+        "journal": "Springer Nature Computer Science",
+        "volume": "xx(x): xxx-xxx",
+        "publisher": "Springer",
+        "year": 2021,
+        "status": "Accepted"
+    },
+    {
+        "authors": [
+            "Alice",
+            "Bob",
+            "John Doe"
+        ],
+        "title": "Some Journal Paper Title",
+        "link": "https://authors.elsevier.com/",
+        "journal": "The Journal of This & That",
+        "volume": "175: 110903",
+        "publisher": "Elsevier Ed.",
+        "year": 2021,
+        "status": ""
+    },
+    {
+        "authors": [
+            "Jane",
+            "John Doe"
+        ],
+        "title": "Another Journal Paper Title",
+        "link": "https://google.com",
+        "journal": "Springer Nature Computer Science",
+        "volume": "xx(x): xxx-xxx",
+        "publisher": "Springer",
+        "year": 2021,
+        "status": "Accepted"
+    },
+    {
+        "authors": [
+            "Alice",
+            "Bob",
+            "John Doe"
+        ],
+        "title": "Some Journal Paper Title",
+        "link": "https://authors.elsevier.com/",
+        "journal": "The Journal of This & That",
+        "volume": "175: 110903",
+        "publisher": "Elsevier Ed.",
+        "year": 2021,
+        "status": ""
+    },
+    {
+        "authors": [
+            "Jane",
+            "John Doe"
+        ],
+        "title": "Another Journal Paper Title",
+        "link": "https://google.com",
+        "journal": "Springer Nature Computer Science",
+        "volume": "xx(x): xxx-xxx",
+        "publisher": "Springer",
+        "year": 2021,
+        "status": "Accepted"
+    },
+    {
+        "authors": [
+            "Alice",
+            "Bob",
+            "John Doe"
+        ],
+        "title": "Some Journal Paper Title",
+        "link": "https://authors.elsevier.com/",
+        "journal": "The Journal of This & That",
+        "volume": "175: 110903",
+        "publisher": "Elsevier Ed.",
+        "year": 2021,
+        "status": ""
+    },
+    {
+        "authors": [
+            "Jane",
+            "John Doe"
+        ],
+        "title": "Another Journal Paper Title",
+        "link": "https://google.com",
+        "journal": "Springer Nature Computer Science",
+        "volume": "xx(x): xxx-xxx",
+        "publisher": "Springer",
+        "year": 2021,
+        "status": "Accepted"
+    },
+    {
+        "authors": [
+            "Alice",
+            "Bob",
+            "John Doe"
+        ],
+        "title": "Some Journal Paper Title",
+        "link": "https://authors.elsevier.com/",
+        "journal": "The Journal of This & That",
+        "volume": "175: 110903",
+        "publisher": "Elsevier Ed.",
+        "year": 2021,
+        "status": ""
+    },
+    {
+        "authors": [
+            "Jane",
+            "John Doe"
+        ],
+        "title": "Another Journal Paper Title",
+        "link": "https://google.com",
+        "journal": "Springer Nature Computer Science",
+        "volume": "xx(x): xxx-xxx",
+        "publisher": "Springer",
+        "year": 2021,
+        "status": "Accepted"
+    }
+]

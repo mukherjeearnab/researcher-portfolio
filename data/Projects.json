@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Project Title One",
+        "principalInvestigator": "Dr. John Doe",
+        "sponsoredAgency": "Science & Engineering Research Agency",
+        "status": "Completed",
+        "coInvestigators": []
+    },
+    {
+        "title": "Project Two Title",
+        "principalInvestigator": "Dr. John Doe",
+        "sponsoredAgency": "Science & Engineering Research Agency",
+        "status": "Ongoing",
+        "coInvestigators": [
+            "Dr. Jane Doe",
+            "Dr. Bob",
+            "Dr. Alice",
+            "Dr. Trevor"
+        ]
+    }
+]

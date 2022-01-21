@@ -1,0 +1,13 @@
+[
+    {
+        "authors": [
+            "John Doe"
+        ],
+        "title": "A Really Good Dissertation",
+        "link": "http://google.com/",
+        "department": "DAIS",
+        "university": "A University",
+        "country": "Earth",
+        "date": "March 2012"
+    }
+]
