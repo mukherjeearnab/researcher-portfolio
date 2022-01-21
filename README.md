@@ -1,6 +1,6 @@
 # Main Branch
 
-This is the React SPA without pre-rendering.
+This is the React SPA.
 
 ## Install Dependencies
 
@@ -29,10 +29,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-# Pre-rendered Scripts Branch `snapshot`
-
-### `git checkout snapshot`
-
 
 Designed with :blue_heart: by Arnab Mukherjee.
