@@ -52,7 +52,7 @@ const PhotoFrame = (props) => {
                     <img
                         className="frame-background"
                         alt={`bg-${props.frames[index]}`}
-                        src={`/img/frames/${props.frames[index]}`}
+                        src={`/researcher-portfolio/img/frames/${props.frames[index]}`}
                     ></img>
                 </span>
             </li>
